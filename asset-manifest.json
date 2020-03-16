@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-colors/static/css/main.f2d14137.chunk.css",
+    "main.js": "/react-colors/static/js/main.9a28caed.chunk.js",
+    "main.js.map": "/react-colors/static/js/main.9a28caed.chunk.js.map",
+    "runtime-main.js": "/react-colors/static/js/runtime-main.f65ccff2.js",
+    "runtime-main.js.map": "/react-colors/static/js/runtime-main.f65ccff2.js.map",
+    "static/js/2.5b38dd22.chunk.js": "/react-colors/static/js/2.5b38dd22.chunk.js",
+    "static/js/2.5b38dd22.chunk.js.map": "/react-colors/static/js/2.5b38dd22.chunk.js.map",
+    "index.html": "/react-colors/index.html",
+    "precache-manifest.b403b857cd402384cd4908085ce3a4ea.js": "/react-colors/precache-manifest.b403b857cd402384cd4908085ce3a4ea.js",
+    "service-worker.js": "/react-colors/service-worker.js",
+    "static/css/main.f2d14137.chunk.css.map": "/react-colors/static/css/main.f2d14137.chunk.css.map",
+    "static/js/2.5b38dd22.chunk.js.LICENSE.txt": "/react-colors/static/js/2.5b38dd22.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f65ccff2.js",
+    "static/js/2.5b38dd22.chunk.js",
+    "static/css/main.f2d14137.chunk.css",
+    "static/js/main.9a28caed.chunk.js"
+  ]
+}
